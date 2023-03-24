@@ -1,11 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
-"""© 2019 Rajkumar Pujari All Rights Reserved
 
-- Original Version
-
-    Author: Rajkumar Pujari
-    Last Modified: 03/12/2019
 
 """
 import numpy as np
